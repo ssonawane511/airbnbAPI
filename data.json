@@ -1,0 +1,200 @@
+[
+  {
+    "homeID": "airbnb0001",
+    "name": "A villa In mast",
+    "tagLine": "Farm stay hosted by S A",
+    "city": "uttara Kannada",
+    "state": "karnataka",
+    "county": "india",
+    "location": {
+      "lattitude": "4.7241897",
+      "longitude": "74.0351935"
+    },
+
+    "contact": 9168178839,
+    "addres": "near tolkat",
+    "pincode": 525206,
+    "landmark": "big church",
+    "nearBy": ["cafe gold", "cafe power"],
+    "rent": 1800,
+    "Amenities": ["free parking", "breakfast", "essentials"],
+    "features": [
+      "Entire home",
+      "Enhanced Clean",
+      "Great check-in experience",
+      "Cancellation policy"
+    ],
+    "tags": ["couple Friendly", "family", "fun allowed"],
+    "BannerPhotoUrl": "https://a0.muscache.com/im/pictures/438725f5-aec2-4b09-afbc-04c97bf223ed.jpg?im_w=1200",
+    "snapshots": [
+      {
+        "photoId": "airbnb0001_1",
+        "url": "https://a0.muscache.com/im/pictures/4ea74be3-2ff3-472a-9441-5f8487953496.jpg?im_w=1440",
+        "contains": ["beach", "coconut tress"]
+      },
+      {
+        "photoId": "airbnb0001_2",
+        "url": "https://a0.muscache.com/im/pictures/9a4831a9-569c-42fa-b110-bbcf0216254d.jpg?im_w=1440",
+        "contains": ["bed", "tress", "window", "voilet color"]
+      }
+    ],
+    "maxGuest": 4,
+    "rating": 4.88,
+    "reviews": [
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      }
+    ],
+    "booked": false
+  },
+  {
+    "homeID": "airbnb0002",
+    "name": "Cosy Single Room with Balcony. Hauz Khas Village",
+    "tagLine": "Room in boutique hotel hosted by Shweta & Gauta",
+    "city": "new Delhi",
+    "state": "delhi",
+    "county": "india",
+    "location": {
+      "lattitude": "4.7241897",
+      "longitude": "74.0351935"
+    },
+
+    "contact": 9881430540,
+    "addres": "near tolkat",
+    "pincode": 525206,
+    "landmark": "big church",
+    "nearBy": ["cafe gold", "cafe power"],
+    "rent": 1800,
+    "Amenities": ["free parking", "breakfast", "essentials"],
+    "features": [
+      "Entire home",
+      "Enhanced Clean",
+      "Great check-in experience",
+      "Cancellation policy"
+    ],
+    "tags": ["couple Friendly", "family", "fun allowed"],
+    "BannerPhotoUrl": "https://a0.muscache.com/im/pictures/16b84111-cce4-45aa-9097-a1cd7bf26886.jpg?im_w=1200",
+    "snapshots": [
+      {
+        "photoId": "airbnb0002_1",
+        "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42522248/original/1e7ae0a5-0615-4258-bf58-cdadc4e7aab5.jpeg?im_w=1440",
+        "contains": ["bed", "window", "laptop"]
+      },
+      {
+        "photoId": "airbnb0002_2",
+        "url": "https://a0.muscache.com/im/pictures/miso/Hosting-42522248/original/2e023013-7a41-4238-854e-5fa12628f6fb.jpeg?im_w=1440",
+        "contains": ["bed", "tress", "chair", "bag", "table"]
+      }
+    ],
+    "maxGuest": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      }
+    ],
+    "booked": true
+  },
+  {
+    "homeID": "airbnb0003",
+    "name": "A villa In mast",
+    "tagLine": "Farm stay hosted by S A",
+    "city": "uttara Kannada",
+    "state": "karnataka",
+    "county": "india",
+    "location": {
+      "lattitude": "4.7241897",
+      "longitude": "74.0351935"
+    },
+
+    "contact": 9168178839,
+    "addres": "near tolkat",
+    "pincode": 525206,
+    "landmark": "big church",
+    "nearBy": ["cafe gold", "cafe power"],
+    "rent": 1800,
+    "Amenities": ["free parking", "breakfast", "essentials"],
+    "features": [
+      "Entire home",
+      "Enhanced Clean",
+      "Great check-in experience",
+      "Cancellation policy"
+    ],
+    "tags": ["couple Friendly", "family", "fun allowed"],
+    "BannerPhotoUrl": "https://a0.muscache.com/im/pictures/438725f5-aec2-4b09-afbc-04c97bf223ed.jpg?im_w=1200",
+    "snapshots": [
+      {
+        "photoId": "airbnb0001_1",
+        "url": "https://a0.muscache.com/im/pictures/4ea74be3-2ff3-472a-9441-5f8487953496.jpg?im_w=1440",
+        "contains": ["beach", "coconut tress"]
+      },
+      {
+        "photoId": "airbnb0001_2",
+        "url": "https://a0.muscache.com/im/pictures/9a4831a9-569c-42fa-b110-bbcf0216254d.jpg?im_w=1440",
+        "contains": ["bed", "tress", "window", "voilet color"]
+      }
+    ],
+    "maxGuest": 4,
+    "rating": 4.88,
+    "reviews": [
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      },
+      {
+        "userID": "user01",
+        "photoUrl": "",
+        "DisplayName": "Sagar sonawane",
+        "UserName": "SAgar890",
+        "comment": "this is the fanstastic house!! loved It"
+      }
+    ],
+    "booked": false
+  }
+]
